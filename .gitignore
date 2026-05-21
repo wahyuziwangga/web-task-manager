@@ -1,0 +1,12 @@
+# environment variables
+.env
+*.env
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+
+# os
+.DS_Store
+Thumbs.db
